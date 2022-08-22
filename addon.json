@@ -1,0 +1,13 @@
+{
+    "name": "Guitarix",
+    "raw_name": "guitarix",
+    "kind": "media",
+    "short": "Guitar amp sim and effects in Faust",
+    "key": "ccc79fce-6ebb-4269-8531-43cbf7cc1415",
+    "license": "GPLv3 - (c) Guitarix authors",
+    "size": "1M",
+    "version": 1,
+    "file": "https://github.com/jcelerier/guitarix-faust/archive/refs/heads/main.zip",
+    "url": "https://github.com/brummer10/guitarix"
+}
+

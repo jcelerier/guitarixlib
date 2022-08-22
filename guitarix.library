@@ -1,0 +1,13 @@
+[
+  {
+    "folder": "dsp",
+    "filter": "*.dsp",
+    "category": "Audio/Effects",
+    "tags": [ "audio", "faust", "guitar", "amp", "chorus", "delay", "distortion", "effect", "fx" ],
+    "map": [
+    ],
+    "faust": {
+      "include": ["library"]
+    }
+  }
+]
